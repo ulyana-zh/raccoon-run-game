@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #081119;
+}
+
+.preload-font {
+  font-family: 'Londrina Solid', cursive;
+  height: 0;
+  width: 0;
+}
+
+#game {
+  position: relative;
+  margin: auto;
+  margin-top: 50px;
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

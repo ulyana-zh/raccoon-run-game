@@ -1,0 +1,37 @@
+[
+  {
+    "image": "background/bg1.png",
+    "speed": 0.1,
+    "layer": "bg-layer-1"
+  },
+  {
+    "image": "background/bg2.png",
+    "speed": 0.2,
+    "layer": "bg-layer-2"
+  },
+  {
+    "image": "background/bg3.png",
+    "speed": 0,
+    "layer": "bg-layer-3"
+  },
+  {
+    "image": "background/bg4.png",
+    "speed": 0.1,
+    "layer": "bg-layer-4"
+  },
+  {
+    "image": "background/bg5.png",
+    "speed": 1,
+    "layer": "bg-layer-5"
+  },
+  {
+    "image": "background/bg6.png",
+    "speed": 3,
+    "layer": "bg-layer-6"
+  },
+  {
+    "image": "background/bg7.png",
+    "speed": 4,
+    "layer": "bg-layer-7"
+  }
+]
